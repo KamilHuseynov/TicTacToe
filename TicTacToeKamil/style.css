@@ -1,0 +1,43 @@
+
+*
+{
+	box-sizing: border-box;
+}
+
+.tictactoe
+{
+	color:#ffacb7;
+	font-size: 55px;
+    text-align: center;    
+    font-weight: 700;
+    
+
+}
+td
+{
+width: 200px;
+height: 200px;
+
+}
+.up
+{
+border-top: 20px solid #ffacb7;
+}
+.down
+{
+border-bottom: 20px solid #ffacb7;
+}
+.height
+{
+	border-left: 20px solid #ffacb7;
+	border-right: 20px solid #ffacb7;
+
+}
+
+table
+{
+	
+    border-spacing: 0px;
+    text-align: center;
+}
+
